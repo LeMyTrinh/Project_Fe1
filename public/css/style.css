@@ -1,0 +1,379 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    margin: 0 43px 0 43px;
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold !important;
+}
+.nav-link:hover{
+    color: #2f7c66 !important;
+    font-weight: bold !important;
+}
+#pantyup{
+    border-left: 1px #eee solid;
+    border-right: 1px #eee solid;
+}
+.img-title-1{
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    top: 262px;
+    left: 310px;
+    font-size: 52px;
+}
+.shop-now-btn-1{
+    text-decoration: none;
+    color: #222;
+    position: absolute;
+    top: 417px;
+    text-align: center;
+    left: 24%;
+    font-size: 20px;
+    border: 1px solid;
+    background: white;
+    padding: 5px 15px;   
+}
+.shop-now-btn-1:hover{
+    color: white;
+    background: #2f7c66;
+}
+.img-title-2{
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    top: 658px;
+    left: 313px;
+    font-size: 52px;
+}
+.shop-now-btn-2{
+    text-decoration: none;
+    color: #222;
+    position: absolute;
+    top: 820px;
+    text-align: center;
+    left: 24%;
+    font-size: 20px;
+    border: 1px solid;
+    background: white;
+    padding: 5px 15px;   
+}
+.shop-now-btn-2:hover{
+    color: white;
+    background: #2f7c66;
+}
+.anhtrai{
+    position: absolute;
+    padding-top: 270px;
+    padding-left: 30px;
+}
+.anhphai{
+    position: absolute;
+    padding-left: 30px;
+    padding-top: 98px;
+}
+#shirt1{
+    padding-bottom: 15px;
+}
+#shirt3{
+    padding-bottom: 15px;
+    margin-left: 50px; 
+}
+#shirt-4{
+    padding-top:102px;
+}
+#shop-now{
+    border: black 1px solid;
+    background: white;
+    text-decoration: none;
+    padding: 15px;
+    color: black;
+}
+#shop-now:hover{
+    color: white;
+    background: #2f7c66;
+    font-weight: bolder;
+}
+.img-title-3 {
+    color: #fff;
+    position: absolute;
+    top: 414px;
+    text-align: center;
+    left: 62%;
+    font-size: 57px;
+}
+.shop-now-btn-3{
+    color: #222;
+    position: absolute;
+    bottom: 15%;
+    text-align: center;
+    left: 68%;
+    font-size: 20px;
+    border: 1px solid;
+    background: white;
+    padding: 5px 20px;
+    text-decoration: none;
+}
+.shop-now-btn-3:hover{
+    color: #fff;
+    background-color: #2f7c66;
+    text-decoration: none;
+}
+.main-content{
+    padding: 20px 13px 20px 13px;
+    background-color: white;
+}
+.sale1{
+    margin-top: 15px;
+    color: white;
+    background: #2f7c66;
+    text-align: center;
+    padding:18px;
+}
+#sale-shop{
+    border: black 1px solid;
+    background: white;
+    text-decoration: none;
+    padding: 15px;
+    color: black;
+}
+#sale-shop:hover{
+    color: white;
+    background: #3e3e3c;
+    font-weight: bolder;
+}
+.fas{
+    color: #efbd67;
+}
+.access{
+    padding-bottom: 10px;
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin: -7px 0 0;
+    color: rgb(150, 136, 136);
+}
+.highlight{
+    display: block;
+    text-align: center;
+}
+.highlight h2{
+    font-size: 20px;
+}
+.highlight h6{
+    font-size: 13px;
+    font-weight: lighter;
+}
+.shop-now-btn-4{
+    text-decoration: none;
+}
+.card-title{
+    font-family: "Open Sans",Sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin: -7px 0 0;
+}
+.price{
+    padding-top: 18px;
+    font-family: "Montserrat",Sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 0px;
+    color: #333;
+    text-align: left;
+}
+.price span{
+    float: right;
+}
+.card:hover .card-body{
+    display: none;
+}
+.card:hover .card_func{
+    display: block;
+}
+.card_func{
+    display: none;
+}
+.add_cart{
+    font-family: "Montserrat",Sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 1.2em;
+    letter-spacing: .6px;
+    display: block;
+    background-color: #2f7c66;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 0;
+    padding: 12px 0;
+    text-align: center;
+}
+.add_cart:hover{
+    font-family: "Montserrat",Sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 1.2em;
+    letter-spacing: .6px;
+    display: block;
+    background-color: black;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 0;
+    padding: 12px 0;
+    text-align: center;
+}
+.card_func ul{
+    display: block;
+    list-style-type: none;
+    padding: 0;
+    margin-top: 12px;
+}
+.card_func ul li{
+    display: inline-block;
+    width: 32.3%;
+    padding: 12px 0;
+    background-color: rgba(206, 202, 202, 0.12);
+    text-align: center;
+}
+.clothing{
+    padding-top: 112px;
+}
+.shop-now-btn-4{
+    color: #222;
+}
+.mart{
+    font-weight: bold;
+}
+.text{
+    font-size: 1.75rem;
+    padding-left: 66px;
+    font-family: Sans-serif;
+    float: right;
+    margin: 0 48px 6px -39px;
+}
+.sales {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding-left: 115px;
+    color:#777;
+}
+.sign-up {
+    font-family: sans-serif;
+    background: #222222;
+    padding: 25px;
+    color: white;
+    font-size: 18px;
+}
+#emailAddress{
+    margin: 0;
+    font-family: sans-serif;
+    font-size: inherit;
+    line-height: inherit;
+    margin-left: 320px;
+    padding: 14px;
+}
+.sub{
+    margin-left: -5px;
+    padding: 19px;
+    background: #2f7c66;
+    color: white;
+    text-decoration: none;
+}
+.sub:hover{
+    color: white;
+    background: #818a91;
+}
+.about{
+    font-size: 1.55rem;
+    font-family: sans-serif;
+    padding-top: 53px;
+}
+.paragrap{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #777;
+    padding-top: 40px;
+    font-family: sans-serif;
+    font-size: 1.05rem;
+}
+.ul{
+    padding-top: 40px;
+}
+.li{
+    color: #777;
+    font-family: sans-serif;
+    padding-top: 10px;
+}
+.li:hover{
+    color: teal;
+}
+.contact{
+    font-size: 1.55rem;
+    padding-top: 51px;
+    font-family: sans-serif;
+}
+.address{
+    color: #777;
+    font-family: sans-serif;
+    padding-top: 40px;
+}
+.phone{
+    color: #777;
+    padding-top: 10px;
+}
+.tel{
+    text-decoration: none;
+    color: black;
+}
+.tel:hover{
+    color: teal;
+}
+.time{
+    color: #777;
+    font-family: sans-serif;
+    padding-top: 25px;
+}
+.woostroid2{
+    color: #777;
+}
+.zemez{
+    color: #777;
+}
+.zemez:hover{
+    color: teal;
+}
+.icon1{
+    color: black;
+}
+.icon1:hover{
+    color: teal;
+}
+.icon2{
+    padding: 15px;
+    color: black;
+}
+.icon2:hover{
+    color: teal;
+}
+.move{
+    position: fixed;    
+    bottom: 20px;
+    right: 20px;
+}
+.cart-product{
+    width: 100%;
+    margin-left: 5px;
+    margin-right: 5px;
+    overflow: hidden;
+}
+#move:hover{
+    background-color: #777;
+} 
